@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mimichen
 123123
+=======
+mimichen
+>>>>>>> branch1
